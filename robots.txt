@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://seochogu.hzone.kr/sitemap.xml
+Sitemap:http://hwam.hitweb114.com/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
